@@ -1,3 +1,3 @@
 # Comparing The Effectiveness Of RAG Between Models
-
-The project is about analysing how different LLMs react to RAG. 
+### How to run the project
+Python Version: 3.12.10
