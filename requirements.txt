@@ -1,0 +1,21 @@
+# Core Machine Learning & Deep Learning
+torch --index-url https://download.pytorch.org/whl/cu128
+transformers
+accelerate
+bitsandbytes
+sentence-transformers
+
+# Vector Database
+faiss-cpu
+
+# Data Handling & Utilities
+datasets
+pandas
+numpy
+python-dotenv
+tqdm
+hf_xet
+
+# Jupyter/Interface
+ipywidgets
+jupyterlab_widgets
