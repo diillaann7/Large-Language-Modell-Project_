@@ -1,6 +1,6 @@
 # Comparing The Effectiveness Of RAG Between Models
 
-This project analyzes how different Large Language Models (LLMs) respond to Retrieval-Augmented Generation (RAG). We based our implementation on the paper "RAGAS: Automated Evaluation of Retrieval Augmented Generation" by Shahul Es, Jithin James, Luis Espinosa-Anke, and Steven Schockaert.
+This university project analyzes how different Large Language Models (LLMs) respond to Retrieval-Augmented Generation (RAG). We based our implementation on the paper "RAGAS: Automated Evaluation of Retrieval Augmented Generation" by Shahul Es, Jithin James, Luis Espinosa-Anke, and Steven Schockaert.
 
 ### Evaluation Metrics
 To evaluate the RAG performance, we implemented three scores:
